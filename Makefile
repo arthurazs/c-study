@@ -1,10 +1,11 @@
 default: build run
 
 build:
-	@cc -Wall list.c -o list
+	@mkdir -p build
+	@cc -Wall src/list.c -o build/list
 
 run:
-	@./list
+	@build/./list
 
 clean:
-	@rm -f list
+	@rm -rf build
