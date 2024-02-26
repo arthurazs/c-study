@@ -12,5 +12,6 @@ make
 
 ## TODO
 
+- [ ] Create `LinkedList` structure
 - [ ] Add user menu
   - [ ] Enable adding values in runtime
