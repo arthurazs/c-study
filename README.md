@@ -12,4 +12,5 @@ make
 
 ## TODO
 
-- [ ] Add user menu (enable adding N values to the list)
+- [ ] Add user menu
+  - [ ] Enable adding values in runtime
